@@ -1,6 +1,6 @@
 import Link from "next/link";
 import classes from "./EventsItem.module.css";
-import Button from "./ui/Button";
+import Button from "../ui/Button";
 
 const EventsItem = (props) => {
   const { title, image, date, location, id } = props;
