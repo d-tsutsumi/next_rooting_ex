@@ -1,5 +1,5 @@
 
-## NextのRouter
+## Next router
 
 
 ```bash
